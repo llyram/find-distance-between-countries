@@ -1,5 +1,7 @@
 # Find distance between countries
 
+This problem is from [RKCR software's career page](https://rckr.com/careers).
+
 Find latitude and longitude of utmost 20 countries, ordered by population, with a population greater or equal to the population limit given below and have atleast one currency exclusively for themselves. (countries like Madagascar, Sri Lanka but not India, USA). Use the country details from [this dataset](data.json).
 
 Your task is to find the sum of the length of all lines (in kms) that can be drawn between co-ordinates of these countries.
@@ -10,7 +12,7 @@ Your task is to find the sum of the length of all lines (in kms) that can be dra
 ## How to use
 1. clone the repository 
 ```
-$ git clone
+$ git clone https://github.com/Maryll-castelino/find-distance-between-countries.git
 ```
 2. change directories
 ```
